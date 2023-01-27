@@ -1,4 +1,4 @@
-<h1 align="center"> Android </h1>
+<h1 align="center"> Cordel Moderno </h1>
 
 <p align="center">
 Projeto desenvolvido para teste de aprendizado.</p>

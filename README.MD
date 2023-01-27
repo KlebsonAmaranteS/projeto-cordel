@@ -29,7 +29,7 @@ Projeto desenvolvido para teste de aprendizado.</p>
 
 Feito para teste de aprendizado.
 
-- [Acesse aqui o projeto online](#)
+- [Acesse aqui o projeto online](https://klebsonamarantes.github.io/projeto-cordel/)
 
 ## :memo: Licença
 
